@@ -18,6 +18,14 @@
 
 Welcome to my **Cybersecurity Hub**. This repository is where I document and share my cybersecurity projects and practices. Here, you'll find resources and practical examples that explore different aspects of cybersecurity. Feel free to explore and use these materials to enhance your understanding of the field.
 
+### Tools and Environment
+
+- **Kali Linux**: I use Kali Linux running on VirtualBox for performing my cybersecurity practices. Kali Linux is a powerful distribution tailored for penetration testing and security research.
+- **VirtualBox**: VirtualBox is used to create isolated environments for my practices, ensuring a safe and controlled setting.
+
+### Ethical Framework
+
+All practices and projects are conducted within an ethical framework. The goal is to learn and share knowledge responsibly and legally. No unauthorized or malicious activities are performed. All exercises are carried out in controlled environments with permission.
 
 ## <img src="https://github.com/antonimodev/42-Common-Core/blob/main/banners/blueprint.png" alt="Project image" width="30"> PROJECTS
 
@@ -27,29 +35,13 @@ Welcome to my **Cybersecurity Hub**. This repository is where I document and sha
     <thead align="center">
         <tr>
             <th>Practice</th>
-            <th>Team</th>
-            <th>Description</th>
             <th>Link</th>
         </tr>
     </thead>
     <tbody align="center">
         <tr>
-            <td>PLACEHOLDER</td>
-            <td>PLACEHOLDER</td>
-            <td>PLACEHOLDER</td>
-            <td><a href="https://github.com/antonimodev/Cybersecurity/tree/main/wireshark-http-login">PLACEHOLDER</a></td>
-        </tr>
-        <tr>
-            <td>PLACEHOLDER</td>
-            <td>PLACEHOLDER</td>
-            <td>PLACEHOLDER</td>
-            <td><a href="https://github.com/antonimodev/Cybersecurity/tree/main/wireshark-http-login">PLACEHOLDER</a></td>
-        </tr>
-        <tr>
-            <td>PLACEHOLDER</td>
-            <td>PLACEHOLDER</td>
-            <td>PLACEHOLDER</td>
-            <td><a href="https://github.com/antonimodev/Cybersecurity/tree/main/wireshark-http-login">PLACEHOLDER</a></td>
+            <td>HTTP Packet Capture</td>
+            <td><a href="https://github.com/antonimodev/network-sniffing">View Details</a></td>
         </tr>
     </tbody>
 </table>
